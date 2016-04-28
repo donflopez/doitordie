@@ -1,0 +1,26 @@
+{
+  "name": "doitordie",
+  "version": "0.1.0",
+  "description": "Merge sync and async code into a pipeline",
+  "main": "doit.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donflopez/doitordie.git"
+  },
+  "keywords": [
+    "doitordie",
+    "sync",
+    "async",
+    "timeout",
+    "error"
+  ],
+  "author": "Francisco López <donflopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donflopez/doitordie/issues"
+  },
+  "homepage": "https://github.com/donflopez/doitordie#readme"
+}
